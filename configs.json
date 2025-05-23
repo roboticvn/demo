@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "remove_config": {
+    "remove_items": [
+      
+    ]
+  },
+  "ads_config": {
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_time": 40,
+    "ad_spacing": 3,
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-9478049238476341~5426138107",
+        "banner_id": "ca-app-pub-9478049238476341/4544850014",
+        "popup_id": "ca-app-pub-9478049238476341/1918686676",
+        "reward_id": "ca-app-pub-9478049238476341/9605605001",
+        "open_id": "ca-app-pub-9478049238476341/4353278324",
+        "popup_time": 60
+      },
+      {
+        "name": "unity",
+        "app_id": "4880665",
+        "banner_id": "Android_Banner",
+        "popup_id": "Android_Interstitial",
+        "reward_id": "Android_Rewarded",
+        "open_id": "",
+        "popup_time": 0
+      }
+    ]
+  },
+  "update_config": {
+    "enable": true,
+    "versionCode": 2,
+    "versionName": "1.0",
+    "title": "Update the new version",
+    "message": "Update the app now to get more sticker packs"
+  },
+  "redirect_config": {
+    "enable": false,
+    "title": "",
+    "message": "",
+    "url": "https://chatgpt.com/"
+  },
+  "self_promo_config": {
+    "self_promo": [
+      {
+        "thumb": "https://i.pinimg.com/736x/ff/c8/a2/ffc8a2695f83e2ead09fef74c0dc1065.jpg",
+        "handle_url": "https://google.com"
+      },
+      {
+        "thumb": "https://i.pinimg.com/736x/f6/3f/6e/f63f6e0628082f4e9af36dd19af4a634.jpg",
+        "handle_url": "Sticker"
+      }
+    ]
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/2823653281222943",
+        "target": "us",
+        "enable": false
+      },
+      {
+        "link": "https://www.facebook.com/groups/2823653281222943",
+        "target": "vn",
+        "enable": false
+      },
+      {
+        "link": "https://www.facebook.com/groups/2823653281222943",
+        "target": "def",
+        "enable": false
+      }
+    ]
+  },
+  "youtube_config": {
+    "youtube": [
+      {
+        "link": "",
+        "target": "us",
+        "enable": false
+      },
+      {
+        "link": "",
+        "target": "vn",
+        "enable": false
+      },
+      {
+        "link": "",
+        "target": "def",
+        "enable": false
+      }
+    ]
+  },
+  "shopping_config": {
+    "shopping": [
+      {
+        "link": "https://www.animestoresugoi.com/tags/tokyo-revengers",
+        "target": "us",
+        "show_price": false,
+        "enable": false
+      },
+      {
+        "link": "https://www.animestoresugoi.com/tags/tokyo-revengers",
+        "target": "vn",
+        "show_price": false,
+        "enable": false
+      },
+      {
+        "link": "https://www.animestoresugoi.com/tags/tokyo-revengers",
+        "target": "def",
+        "show_price": false,
+        "enable": false
+      }
+    ]
+  },
+  "moreapp_config": {
+    "apps": [
+      {
+        "title": "Anime Shimeji",
+        "text": "Make many of your favorite animated characters that play on top of your mobile screen (over other apps).",
+        "iconUrl": "https://i.pinimg.com/564x/a2/41/80/a24180ce30a72a4f835fb8c80e083ad0.jpg",
+        "mainImageUrl": "https://i.pinimg.com/564x/2b/21/18/2b21184ce5d67d1fbe90580f5abb92d4.jpg",
+        "actionUrl": "com.aquarius.shimeji"
+      },
+      {
+        "title": "Anime Wallpaper HD 4K",
+        "text": "The best wallpaper app for anime/manga fans",
+        "iconUrl": "https://i.pinimg.com/564x/7a/c5/16/7ac5160b8ca14eeb4b19dffa21429f3d.jpg",
+        "mainImageUrl": "https://i.pinimg.com/564x/f8/9b/2f/f89b2ff5ab3aa921e9256ee15e376669.jpg",
+        "actionUrl": "com.aquarius.anime.wallpaper"
+      }
+    ]
+  },
+  "apps_config": {
+    "wallpaper": {
+      "show_config": {
+        "start_photo_date": "2022-01-01",
+        "start_album_date": "2022-01-01",
+        "shuffle": false
+      }
+    },
+    "sticker": {},
+    "shimeji": {},
+    "widget": {}
+  }
+}
